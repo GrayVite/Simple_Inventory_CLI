@@ -1,0 +1,38 @@
+{
+    "00000012": {
+        "name": "jacket",
+        "quantity": 15,
+        "price": 35.0,
+        "category": "outerwear"
+    },
+    "00000013": {
+        "name": "socks",
+        "quantity": 50,
+        "price": 3.5,
+        "category": "accessories"
+    },
+    "00000014": {
+        "name": "hat",
+        "quantity": 18,
+        "price": 8.25,
+        "category": "headwear"
+    },
+    "00000015": {
+        "name": "skirt",
+        "quantity": 12,
+        "price": 28.0,
+        "category": "skirt"
+    },
+    "00000016": {
+        "name": "t-shirt",
+        "quantity": 34,
+        "price": 9.99,
+        "category": "shirt"
+    },
+    "00000001": {
+        "name": "black tea",
+        "quantity": 45,
+        "price": 3.99,
+        "category": "refreshment"
+    }
+}
